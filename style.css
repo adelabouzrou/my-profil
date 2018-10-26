@@ -1,0 +1,29 @@
+h1 {
+	color: #587BA8
+	font-family: Helvetica;
+	font-size: 30px
+	font-weight: 400;
+}
+
+
+body { width: 800px;
+margin: 40px auto; 
+}
+
+
+body {
+	background-image: url(images/wall.png); 
+}
+
+div {
+	background-color: white;
+	margin: 10px 10px;
+	padding: 10px;
+	height: 580px;
+	border-radius: 205px;
+	}
+
+#picture {
+	border-radius: 50%;
+	width: 130px;
+}
